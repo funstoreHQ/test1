@@ -1,0 +1,49 @@
+{
+  "Title": "A new IoT app",
+  "Subtitle": "An IoT app to measure current from device",
+  "Objective": "This is in a way extended subtitle (200 words)",
+  "Steps": [
+    [
+      "Unbox and take out elements",
+      "img0.png"
+    ],
+    [
+      "I will do the next step",
+      "img1.png"
+    ],
+    [
+      "i will do the third step",
+      "img2.png"
+    ],
+    [
+      "there is a fourth step",
+      "img3.png"
+    ],
+    [
+      "one more step ",
+      "img4.png"
+    ],
+    [
+      "and last step",
+      "img5.png"
+    ]
+  ],
+  "Conclusion": [
+    "",
+    "img10.png"
+  ],
+  "Code": "var i=10;\ni=i+1;\nprint i;",
+  "MobileApps": [
+    [
+      "name of Image 1. Keep this in App/img folder."
+    ],
+    [
+      "name of Image 1. Keep this in App/img folder."
+    ],
+    [
+      "name of Image 1. Keep this in App/img folder."
+    ]
+  ],
+  "Category": "Grove Pi etc.",
+  "Dashboard": 1
+}
